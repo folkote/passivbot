@@ -1,0 +1,1 @@
+"""Passivbot wrapper service package."""
